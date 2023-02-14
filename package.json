@@ -4,9 +4,6 @@
   "version": "0.0.1",
   "displayName": "Rubberduck React",
   "description": "Generate React components. Rubberduck extension.",
-  "scripts": {
-    "build": "tsc -p ./src"
-  },
   "keywords": [
     "ai",
     "chatgpt",
@@ -37,9 +34,9 @@
   "engines": {
     "vscode": "^1.72.0"
   },
-  "homepage": "https://github.com/rubberduck-ai/rubberduck-vscode",
-  "repository": "https://github.com/rubberduck-ai/rubberduck-vscode",
-  "bugs": "https://github.com/rubberduck-ai/rubberduck-vscode/issues",
+  "homepage": "https://github.com/rubberduck-ai/rubberduck-react-vscode",
+  "repository": "https://github.com/rubberduck-ai/rubberduck-react-vscode",
+  "bugs": "https://github.com/rubberduck-ai/rubberduck-react-vscode/issues",
   "extensionKind": [
     "workspace"
   ],
